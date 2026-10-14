@@ -1,6 +1,6 @@
 # ROSWORLD: Robotic Computer Use for OSWorld Tasks
 
-[Project website](https://miles629.github.io/ROSWORLD/) · [Contact](mailto:woshimacaoyuan@gmail.com)
+[Project website](https://miles629.github.io/ROSWORLD/) · [Official code (currently private)](https://github.com/lwdQAQ/ROSWorld) · [Contact](mailto:woshimacaoyuan@gmail.com)
 
 **Caoyuan Ma¹²\*, Wendi Liu¹\*, Wenqi Shao², Yinqiang Zheng¹**  
 ¹ UTokyo · ² JD Explore  
@@ -29,7 +29,7 @@ Comparative evaluations will use fixed protocols, including fixed robotic arm, d
 - An accompanying technical report is planned for release on **arXiv before the end of October 2026**.
 - New tasks and models will be introduced as capabilities advance, with ongoing leaderboard updates.
 
-This repository currently hosts the project website and preliminary demo. Research code and evaluation assets will be linked when released.
+This repository is for the **project website only**, including its preliminary demo. The **official research code and evaluation assets** belong to [lwdQAQ/ROSWorld](https://github.com/lwdQAQ/ROSWorld), which is currently private and is planned to become public by the end of October 2026. The official repository may not be accessible before its public release.
 
 If you would like your model evaluated, contact **woshimacaoyuan@gmail.com** to discuss API access and evaluation arrangements.
 
